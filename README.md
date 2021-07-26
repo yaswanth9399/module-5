@@ -1,2 +1,6 @@
-# module-5
-click here(file:///C:/Users/Yaswanth/OneDrive/Documents/GitHub/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+
+# Module-5 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](file:///C:/Users/Yaswanth/OneDrive/Documents/GitHub/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
